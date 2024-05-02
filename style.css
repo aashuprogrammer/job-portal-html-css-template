@@ -1,0 +1,305 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+body {
+  background-color: #f2994a50;
+}
+.container {
+  max-width: 1440px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 2.5rem;
+  padding-right: 1.5rem;
+}
+.head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 30px;
+}
+
+.home-sec {
+  display: flex;
+  gap: 1rem;
+}
+.home-sec :first-child {
+  color: #f2994a;
+}
+.login-sec {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding-right: 20px;
+}
+.login-sec button {
+  width: 90px;
+  height: 35px;
+  border: none;
+  border-radius: 25px;
+  background-color: #f2994a;
+}
+.girl-img1 {
+  display: flex;
+  justify-content: end;
+}
+.dreams {
+  display: flex;
+  align-items: center;
+}
+.findJob {
+  width: 60%;
+}
+.h1-sec {
+  padding-top: 80px;
+  font-size: 80px;
+}
+.h1-sec samp {
+  color: #f2994a;
+}
+.everyday {
+  padding-top: 20px;
+  line-height: 25px;
+  color: #4f4f4f;
+}
+.findJob h3 {
+  padding-top: 40px;
+}
+.design-sec {
+  color: #f2994a;
+}
+.web-sec {
+  display: flex;
+  gap: 25px;
+}
+.svg-sec {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  width: 670px;
+  height: 55px;
+  background-color: white;
+  border-radius: 45px;
+}
+.svg-div {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding-left: 30px;
+}
+.line {
+  border: 1px solid #828282;
+  height: 40px;
+}
+.search-sec {
+  border-radius: 25px;
+  width: 120px;
+  height: 40px;
+  font-weight: bold;
+  font-size: 18px;
+  border: none;
+  color: white;
+  background-color: #f2994a;
+}
+.title {
+  color: #828282;
+}
+.girl-img1 {
+  width: 40%;
+}
+.job-img {
+  width: 100%;
+}
+.company-sec {
+  height: 300px;
+  background-color: white;
+  max-width: 1440px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 2.5rem;
+  padding-right: 1.5rem;
+  margin-top: 100px;
+}
+.company-sec h3 {
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+.google-sec {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 70px;
+  align-items: center;
+}
+.categories-sec {
+  display: flex;
+  justify-content: center;
+  padding-top: 100px;
+}
+.marketing-div {
+  width: 328;
+  height: 160;
+  background-color: white;
+  display: flex;
+  padding-top: 30px;
+  border-radius: 25px;
+}
+.ui-ux-sec {
+  width: 328;
+  height: 160;
+  background-color: #f2994a;
+  display: flex;
+  padding-top: 30px;
+  border-radius: 25px;
+}
+.job-available {
+  padding-top: 20px;
+}
+.personal-img-sec {
+  width: 30%;
+}
+.perImg {
+  width: 800px;
+}
+.create-text {
+  color: #f2994a;
+  font-size: 28px;
+  font-weight: 500;
+}
+.build-text {
+  color: #333333;
+  font-size: 50px;
+  font-weight: 600;
+  padding-top: 20px;
+}
+.information-text {
+  color: #000000;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 30px;
+  padding-top: 30px;
+}
+.account-btn {
+  padding: 18px 20px;
+  font-size: 20px;
+  font-weight: 600;
+  border-radius: 25px;
+  border: none;
+  background-color: #f2994a;
+  color: white;
+  margin-top: 70px;
+}
+.profile-sec {
+  margin: 120px 0px 0px 300px;
+  width: 70%;
+}
+.how {
+  color: #f2994a;
+  font-size: 25px;
+  font-weight: 500;
+}
+.easy {
+  color: #333333;
+  font-size: 45px;
+  font-weight: 600;
+}
+.dream {
+  color: #000000;
+  font-size: 20px;
+  font-weight: 400;
+  padding-top: 40px;
+}
+.itWork-sec {
+  margin: 100px 0px 0px 0px;
+}
+.bestCV-sec {
+  background-color: white;
+  width: 550px;
+  height: 470px;
+  border-radius: 20px;
+  padding: 30px 20px;
+  margin-top: 50px;
+}
+.uploadYour {
+  color: #f2994a;
+}
+.uploadYour1 {
+  color: #f2994a;
+  padding-top: 30px;
+}
+.resume-sec {
+  color: #000000;
+  font-size: 20px;
+  font-weight: 300;
+  padding-top: 10px;
+}
+.never-sec {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1300px;
+  height: 400px;
+  background-color: #f2994a;
+  border-radius: 100px;
+  margin-top: 100px;
+}
+.email {
+  display: flex;
+  align-items: center;
+  width: 500px;
+  height: 80px;
+  background-color: white;
+  border-radius: 45px;
+  margin-left: 50px;
+}
+.enter {
+  color: #828282;
+  font-size: 20px;
+  font-weight: 400px;
+  margin-left: 10px;
+}
+.line2 {
+  border: 1px solid #828282;
+  height: 35px;
+  margin-left: 10px;
+}
+.subcribe {
+  padding: 5px 15px;
+  margin-left: 40px;
+  border-radius: 50px;
+  font-size: 20px;
+  font-weight: 400px;
+  border: none;
+  background-color: #f2994a;
+  color: white;
+}
+.want {
+  color: white;
+  font-size: 45px;
+  font-weight: 600px;
+}
+
+.footer-sec {
+  background-color: white;
+  height: auto;
+  width: auto;
+  padding: 70px 80px;
+  margin-top: 100px;
+}
+.talent {
+  padding-top: 25px;
+}
+.blog-sec {
+  line-height: 50px;
+  padding-left: 30px;
+}
+.help-sec {
+  line-height: 50px;
+  padding-left: 80px;
+}
+.email-sec {
+  line-height: 50px;
+  padding-left: 150px;
+}
